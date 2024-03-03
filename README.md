@@ -32,7 +32,7 @@
 
 [10] [Постановка задачи классификации и её решение методом логистической регрессии](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/10_%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F.ipynb) \
 [11] [Оценка качества классификации](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/11_%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0_%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8.ipynb) \
-[12] [Пример решения задачи классификации с помощью логистической регрессии]()
+[12] [Пример решения задачи классификации с помощью логистической регрессии](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/12_%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D0%BE%D0%B5_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8.ipynb)
 
 # Дополнительные материалы
 
@@ -42,5 +42,5 @@
 # Домашнее задание
 
 [0] Провести анализ любого выбранного набора данных. Обратите внимание, в примере есть ошибка с регрессией. \
-[1] [Решить задачу регрессии с наибольшей возможной точность.](https://www.kaggle.com/competitions/laptop-price-prediction-misis)
+[1] [Решить задачу регрессии с наибольшей возможной точность.](https://www.kaggle.com/competitions/laptop-price-prediction-misis) \
 [2] [Решить задачу классификации с наибольшей возможной точностью.](https://www.kaggle.com/competitions/hotel-booking-demand-3)
