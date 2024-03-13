@@ -34,13 +34,20 @@
 [11] [Оценка качества классификации](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/11_%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0_%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8.ipynb) \
 [12] [Пример решения задачи классификации с помощью логистической регрессии](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/12_%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D0%BE%D0%B5_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8.ipynb)
 
+## Кластеризация
+
+[13] [Задача и методы кластеризации]()
+[14] [Базовое решене для задачи кластеризации]()
+
 # Дополнительные материалы
 
 [0] [Условная вероятность, формула Баеса](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/a00_%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.ipynb) \
-[1] [Наивный Баесовский классификатор](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/a01_%D0%9D%D0%B0%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B0%D0%B5%D1%81.ipynb)
+[1] [Наивный Баесовский классификатор](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/a01_%D0%9D%D0%B0%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B0%D0%B5%D1%81.ipynb) \
+[2] [Работа с категориальными признаками]()
 
 # Домашнее задание
 
 [0] Провести анализ любого выбранного набора данных. Обратите внимание, в примере есть ошибка с регрессией. \
 [1] [Решить задачу регрессии с наибольшей возможной точность.](https://www.kaggle.com/competitions/laptop-price-prediction-misis) \
-[2] [Решить задачу классификации с наибольшей возможной точностью.](https://www.kaggle.com/competitions/hotel-booking-demand-3)
+[2] [Решить задачу классификации с наибольшей возможной точностью.](https://www.kaggle.com/competitions/hotel-booking-demand-3) \
+[3] [Решить задачу кластеризации с наибольшей возможной точностью.](https://www.kaggle.com/competitions/physical-activity-clustering)
