@@ -50,5 +50,5 @@
 [0] Провести анализ любого выбранного набора данных. Обратите внимание, в примере есть ошибка с регрессией. \
 [1] [Решить задачу регрессии с наибольшей возможной точность.](https://www.kaggle.com/competitions/laptop-price-prediction-misis) \
 [2] [Решить задачу классификации с наибольшей возможной точностью.](https://www.kaggle.com/competitions/hotel-booking-demand-3) \
-[3] [Решить задачу кластеризации с наибольшей возможной точностью.](https://www.kaggle.com/competitions/physical-activity-clustering)
+[3] [Решить задачу кластеризации с наибольшей возможной точностью.](https://www.kaggle.com/competitions/physical-activity-clustering) \
 [4] [Решить задачу случайным лесом с наибольей возможной точность.](https://www.kaggle.com/competitions/interpretation-of-animal-actions-in-the-video-stre/overview)
