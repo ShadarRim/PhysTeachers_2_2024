@@ -39,6 +39,16 @@
 [13] [Задача и методы кластеризации](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/13_%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.ipynb) \
 [14] [Базовое решене для задачи кластеризации](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/14_%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D0%BE%D0%B5_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8_%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.ipynb)
 
+## Алгоритмы, основанные на деревьях
+
+[15] [Дерево решений](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/15_%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.ipynb) \
+[16] [Случайный лес](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/16_%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BB%D0%B5%D1%81.ipynb) \
+[17] [Подбор ппраметров алгоритмов](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/17_%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BB%D0%B5%D1%81%D0%B0_%D0%B8_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B0_%2B_%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2.ipynb) \
+[18] [Бустинг](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/18_%D0%91%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%B3.ipynb)
+
+## Коллоквиум
+[19] [Тематический план](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D0%B0.docx)
+
 # Дополнительные материалы
 
 [0] [Условная вероятность, формула Баеса](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/a00_%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.ipynb) \
@@ -51,4 +61,5 @@
 [1] [Решить задачу регрессии с наибольшей возможной точность.](https://www.kaggle.com/competitions/laptop-price-prediction-misis) \
 [2] [Решить задачу классификации с наибольшей возможной точностью.](https://www.kaggle.com/competitions/hotel-booking-demand-3) \
 [3] [Решить задачу кластеризации с наибольшей возможной точностью.](https://www.kaggle.com/competitions/physical-activity-clustering) \
-[4] [Решить задачу случайным лесом с наибольей возможной точность.](https://www.kaggle.com/competitions/interpretation-of-animal-actions-in-the-video-stre/overview)
+[4] [Решить задачу случайным лесом с наибольей возможной точность.](https://www.kaggle.com/competitions/interpretation-of-animal-actions-in-the-video-stre/overview) \
+[5] Выбрать данные и создать собственное соревнование на платформе Kaggle
